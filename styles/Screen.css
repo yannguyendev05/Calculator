@@ -1,0 +1,13 @@
+.screen {
+    padding: 16px;
+    text-align: right;
+    background-color: var(--dark);
+    color: var(--light);
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.screen span {
+    font-size: 14px;
+    color: #888;
+}
